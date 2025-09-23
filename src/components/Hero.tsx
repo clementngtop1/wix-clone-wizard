@@ -21,7 +21,7 @@ const Hero = () => {
 
       {/* Content */}
       <div className="relative z-10 text-center max-w-4xl mx-auto px-6">
-        <h1 className="text-5xl md:text-7xl font-bold mb-12 bg-gradient-to-r from-primary via-accent to-primary bg-clip-text text-transparent animate-in slide-in-from-bottom duration-1000">
+        <h1 className="text-5xl md:text-7xl font-bold mb-16 leading-tight bg-gradient-to-r from-primary via-accent to-primary bg-clip-text text-transparent animate-in slide-in-from-bottom duration-1000">
           Your AI-Agent Solution
         </h1>
         
