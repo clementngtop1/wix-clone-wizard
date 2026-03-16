@@ -7,9 +7,11 @@ const Header = () => {
         <nav className="flex items-center justify-between">
           {/* Logo */}
           <div className="flex items-center space-x-2">
-            <div className="w-8 h-8 bg-gradient-hero rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-lg">A</span>
-            </div>
+            <img
+              src="/logo.png"
+              alt="Ancycom Web Solutions Logo"
+              className="h-8 w-auto"
+            />
             <div className="text-lg font-semibold">
               <span className="text-foreground">Ancycom</span>
               <br />
