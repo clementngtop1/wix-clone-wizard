@@ -8,7 +8,7 @@ const Header = () => {
           {/* Logo */}
           <div className="flex items-center space-x-2">
             <img
-              src="/logo.png"
+                            src="/logo.svg"
               alt="Ancycom Web Solutions Logo"
               className="h-8 w-auto"
             />
